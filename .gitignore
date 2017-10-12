@@ -1,2 +1,3 @@
-./npm-modules
-./.idea
+npm-modules
+.idea
+npm-debug.log
