@@ -1,0 +1,20 @@
+{
+  "name": "react-indeterminate-checkbox",
+  "version": "1.0.0",
+  "description": "Simple checkbox component with indeterminate status support",
+  "main": "IndeterminableCheckbox.js",
+  "dependencies": {
+    "prop-types": "^15.6.0",
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reactjs",
+    "checkbox",
+    "indeterminate",
+    "checkbox"
+  ],
+  "author": "Michele Riva",
+  "license": "MIT"
+}
