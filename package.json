@@ -1,6 +1,6 @@
 {
   "name": "react-indeterminate-checkbox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple checkbox component with indeterminate status support",
   "main": "IndeterminableCheckbox.js",
   "dependencies": {

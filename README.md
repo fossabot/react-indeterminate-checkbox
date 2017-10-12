@@ -18,4 +18,4 @@ npm install --save react-indeterminate-checkbox
 />
 ```
 
-Tests will be addeddo soon!
+Tests will be added soon!
