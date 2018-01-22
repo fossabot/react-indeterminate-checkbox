@@ -1,4 +1,4 @@
-npm-modules
 .idea
 npm-debug.log
 package-lock.json
+node-modules
