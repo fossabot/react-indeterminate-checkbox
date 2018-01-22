@@ -1,14 +1,14 @@
 {
   "name": "react-indeterminate-checkbox",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple checkbox component with indeterminate status support",
   "main": "IndeterminableCheckbox.js",
   "dependencies": {
     "prop-types": "^15.6.0"
   },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/micheleriva/react-indeterminate-checkbox"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/micheleriva/react-indeterminate-checkbox"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
