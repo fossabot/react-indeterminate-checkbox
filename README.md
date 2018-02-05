@@ -4,6 +4,7 @@
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![Dependencies](https://david-dm.org/micheleriva/react-indeterminate-checkbox.svg)](https://david-dm.org/micheleriva/react-indeterminate-checkbox)
 [![Maintainability](https://api.codeclimate.com/v1/badges/76e16f7e4ea426c0734b/maintainability)](https://codeclimate.com/github/micheleriva/react-indeterminate-checkbox/maintainability)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEpkCloud%2Freact-indeterminate-checkbox.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEpkCloud%2Freact-indeterminate-checkbox?ref=badge_shield)
 
 Simple checkbox component with "indeterminate" status support.
 
@@ -46,3 +47,6 @@ const checkBox = () => {
 | `change` | Returns `0`, `1` or `2`. <br /> `0`: indeterminable <br /> `1`: checked <br /> `2`: unchecked |
 | `name` | the checkbox input name |
 | `indeterminate` | Boolean value, set `true` if you want to start with an indeterminable status. <br /> Set to `false` if you want it to start with the checked value. |
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEpkCloud%2Freact-indeterminate-checkbox.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEpkCloud%2Freact-indeterminate-checkbox?ref=badge_large)
